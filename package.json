@@ -1,0 +1,13 @@
+{
+  "name": "teste2",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4.6.0",
+    "font-awesome": "^4.6.3",
+    "jquery": "3.6.0",
+    "metismenu": "3.0.3"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
